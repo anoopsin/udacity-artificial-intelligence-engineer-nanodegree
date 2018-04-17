@@ -20,9 +20,9 @@ Url: https://goo.gl/4ba5wD
 
 <b>Cargo Planning</b>
 
-Algorithm: PDDL(Planning Domain Definition Language), BFS, DFS, Uniform Cost Search and A*
+Algorithm: PDDL (Planning Domain Definition Language), BFS, DFS, Uniform Cost Search and A*
 
-Built an Isolation solving adversarial search agent
+Built planning search algorithms for air cargo environment
 
 Url: https://goo.gl/pX8UA6
 <br /> <br />
