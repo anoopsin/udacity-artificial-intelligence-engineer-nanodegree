@@ -26,3 +26,13 @@ Built planning search algorithms for air cargo environment
 
 Url: https://goo.gl/pX8UA6
 <br /> <br />
+
+
+<b>Sign Language Recognizer</b>
+
+Algorithm: Hidden Markov Models (HMMs)
+
+Built an American Sign Language (ASL) Recognizer
+
+Url: https://goo.gl/ziiphp
+<br /> <br />
