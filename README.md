@@ -1,20 +1,10 @@
-<b>Solving Sudoku</b>
+<b>Sign Language Recognizer</b>
 
-Algorithm: Naked Twins and other heuristics
+Algorithm: Hidden Markov Models (HMMs)
 
-Uses AI to solve Sudoku
+Built an American Sign Language (ASL) Recognizer
 
-Url: https://goo.gl/XvUMEY
-<br /> <br />
-
-
-<b>Solving Isolation</b>
-
-Algorithm: Minimax, Iterative Deepening, Alpha-Beta Pruning, Heuristics and Adversarial Search
-
-Built an Isolation solving adversarial search agent
-
-Url: https://goo.gl/4ba5wD
+Url: https://goo.gl/ziiphp
 <br /> <br />
 
 
@@ -28,11 +18,21 @@ Url: https://goo.gl/pX8UA6
 <br /> <br />
 
 
-<b>Sign Language Recognizer</b>
+<b>Solving Isolation</b>
 
-Algorithm: Hidden Markov Models (HMMs)
+Algorithm: Minimax, Iterative Deepening, Alpha-Beta Pruning, Heuristics and Adversarial Search
 
-Built an American Sign Language (ASL) Recognizer
+Built an Isolation solving adversarial search agent
 
-Url: https://goo.gl/ziiphp
+Url: https://goo.gl/4ba5wD
+<br /> <br />
+
+
+<b>Solving Sudoku</b>
+
+Algorithm: Naked Twins and other heuristics
+
+Uses AI to solve Sudoku
+
+Url: https://goo.gl/XvUMEY
 <br /> <br />
