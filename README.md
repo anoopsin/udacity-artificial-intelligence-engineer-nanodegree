@@ -16,3 +16,13 @@ Built an Isolation solving adversarial search agent
 
 Url: https://goo.gl/4ba5wD
 <br /> <br />
+
+
+<b>Cargo Planning</b>
+
+Algorithm: PDDL(Planning Domain Definition Language), BFS, DFS, Uniform Cost Search and A*
+
+Built an Isolation solving adversarial search agent
+
+Url: https://goo.gl/pX8UA6
+<br /> <br />
