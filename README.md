@@ -4,7 +4,7 @@ Algorithm: Hidden Markov Models (HMMs)
 
 Built an American Sign Language (ASL) Recognizer
 
-Url: https://goo.gl/ziiphp
+Url: https://goo.gl/Pjmkz5
 <br /> <br />
 
 
